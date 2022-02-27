@@ -1,0 +1,26 @@
+﻿RoomNode #title{
+	background-color: rgba(50, 102, 71, 1.0);
+}
+
+RoomNode{
+    width: 300px;
+}
+
+RoomNode #node-border{
+	background-color: rgba(63,63,63, 1.0);
+}
+
+RoomPort #connector{
+	background-color: rgba(63,63,63, 1.0);
+}
+
+EnemyNode #title{
+	background-color: rgba(128, 0, 0, 1.0);
+}
+EnemyNode{
+	width: 300px;
+}
+
+EnemyNode #node-border{
+	background-color: rgba(63,63,63, 1.0);
+}
